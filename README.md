@@ -1,2 +1,4 @@
 # c-programs
-basic c programming practice programs
+This repository contains basic c programs created while learning c programming
+## programs
+- Hello World!
